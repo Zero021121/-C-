@@ -5,5 +5,6 @@
 <img width="1024" height="1024" alt="ChatGPT Image 4 Okt 2025, 16 07 46" src="https://github.com/user-attachments/assets/fff20e0b-9f55-4965-9c01-9161ae399ee4" />
 <img width="1024" height="1024" alt="ChatGPT Image 4 Okt 2025, 16 07 42" src="https://github.com/user-attachments/assets/9c17e75f-5eee-4fc5-a767-64b044f60230" />
 <img width="533" height="688" alt="download (13)" src="https://github.com/user-attachments/assets/eb83ce50-ce44-4e2d-a45f-37045b49bb08" />
-![Screenshot 2025-10-05 144817](https://github.com/user-attachments/assets/2b2ab121-b435-4abc-b45f-1c1415f77a71)
+<img width="365" height="489" alt="Screenshot 2025-10-05 144817" src="https://github.com/user-attachments/assets/78706a28-64f1-4052-a825-626be92d71a6" />
+
 
